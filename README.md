@@ -45,7 +45,7 @@ The script performs the following actions:
 1. Open a terminal
 2. Navigate to the script directory:
    ```bash
-   cd /home/dominick-cherrie/CascadeProjects/icon_fix
+   cd /home/YOUR_USER/CascadeProjects/icon_fix
    ```
 3. Run the script with sudo:
    ```bash
