@@ -72,4 +72,5 @@ If you still experience icon issues after running the script:
 2. Restart your system completely
 3. Check if your desktop environment has a specific theme manager where you can manually select icon themes
 4. For Wine applications, you may need to reinstall the application or use a tool like Bottles to manage Wine prefixes
-5. If you get brought to a terminal screen, do **sudo pacman -S gnome gdm gnome-shell and then do sudo reboot.**
+5. Make sure the file is a executable.
+6. If you get brought to a terminal screen, do **sudo pacman -S gnome gdm gnome-shell and then do sudo reboot.**
